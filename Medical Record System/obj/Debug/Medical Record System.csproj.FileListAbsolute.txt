@@ -1,0 +1,57 @@
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe.config
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Medical Record System.pdb
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csprojResolveAssemblyReference.cache
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.Properties.Resources.resources
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csproj.GenerateResource.Cache
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical Record System.exe
+c:\users\salman ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical Record System.pdb
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Resources\female_names.txt
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Resources\male_names.txt
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\itext.io.dll
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\itext.kernel.dll
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\itext.layout.dll
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Cassandra.dll
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\LZ4.dll
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\bin\Debug\Cassandra.xml
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.MainPage.resources
+G:\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe.config
+G:\Medical Record System\Medical Record System\obj\Debug\Medical Record System.exe
+G:\Medical Record System\Medical Record System\obj\Debug\Medical Record System.pdb
+G:\Medical Record System\Medical Record System\bin\Debug\Resources\female_names.txt
+G:\Medical Record System\Medical Record System\bin\Debug\Resources\male_names.txt
+G:\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe
+G:\Medical Record System\Medical Record System\bin\Debug\Medical Record System.pdb
+G:\Medical Record System\Medical Record System\bin\Debug\Cassandra.dll
+G:\Medical Record System\Medical Record System\bin\Debug\LZ4.dll
+G:\Medical Record System\Medical Record System\bin\Debug\Cassandra.xml
+G:\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csprojResolveAssemblyReference.cache
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.MainPage.resources
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.Properties.Resources.resources
+G:\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csproj.GenerateResource.Cache
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.RecordSample.resources
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.ServerConfiguration.resources
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.QueryRecord.resources
+G:\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.GenerateUploadRecord.resources
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.GenerateUploadRecord.resources
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.QueryRecord.resources
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.ServerConfiguration.resources
+C:\Users\Salman Ahmed\documents\visual studio 2015\Projects\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.RecordSample.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe.config
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical Record System.exe
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical Record System.pdb
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Resources\female_names.txt
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Resources\male_names.txt
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Medical Record System.exe
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Medical Record System.pdb
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Cassandra.dll
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\LZ4.dll
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\bin\Debug\Cassandra.xml
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csprojResolveAssemblyReference.cache
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.GenerateUploadRecord.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.QueryRecord.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.ServerConfiguration.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.MainPage.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.Properties.Resources.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical_Record_System.RecordSample.resources
+C:\Users\Nataliya Chibizova\Desktop\Medical Record System\Medical Record System\obj\Debug\Medical Record System.csproj.GenerateResource.Cache
